@@ -52,5 +52,5 @@
 
 <h2>📊 My GitHub Data:</h2>
 
-<p><img align="left" width="48%"  src="https://github-readme-stats.vercel.app/api?username=sahil-codee&show_icons=true&locale=en" alt="sahil-codee" />
-  <img align="right" width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-codee&" alt="sahil-codee" /></p>
+<p><img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=sahil-codee&show_icons=true&locale=en" alt="sahil-codee" />
+  <img align="right" width="47%"  src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-codee&" alt="sahil-codee" /></p>
