@@ -2,9 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
 
-<h3 align="center">A passionate frontend developer from New Delhi, India</h3>
-
-
  
   <h2>👨‍💻 About Me</h2>
    <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" height="270px" alt="coding gif">
