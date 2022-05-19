@@ -4,7 +4,7 @@
 
  
   <h2>👨‍💻 About Me</h2>
-   <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" height="270px" alt="coding gif">
+   <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" height="270px" width="270px" alt="coding gif">
 
 - 🙋‍♂️ Head over to <a href="https://sahilportfolio.vercel.app/">My Portfolio</a> to know more                     
 
