@@ -14,8 +14,8 @@
 
 - 👯 I’m looking to collaborate on **Front End Development Projects**                
 
-- 🤝 I’m looking for help with **Backend**
-
+<!-- - 🤝 I’m looking for help with **Backend**
+ -->
 - 💬 Ask me anything about **Front End development**
 
 - ⚡ Fun fact **Best Part of Learning Journey Is: It Never Ends.**        
